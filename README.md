@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sobit-nep/sobit-nep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![@50bit's Holopin board](https://holopin.io/api/user/board?user=50bit)](https://holopin.io/@50bit)
--->
+  [![@50bit's Holopin board](https://holopin.io/api/user/board?user=50bit)](https://holopin.io/@50bit)
+
