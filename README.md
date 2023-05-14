@@ -21,7 +21,7 @@
  </br>
 - 👯 I’m looking to collaborate on ML projects.
  </br>
-- 📫 How to reach me: nepalsobit1@gmail.com
+- 📫 Electronics, Communication and Information Engineer
 </br>
 - ⚡ Fun fact: In the future, learning how to code would be as common as basic literacy!
 </br>
