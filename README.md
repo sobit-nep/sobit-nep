@@ -51,6 +51,7 @@
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobit-nep&theme=tokyonight&layout=compact" width="45%" />
+<img src ="https://github-contributor-stats.vercel.app/api?username=sobit-nep&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%"/>
 </div>
 
 
