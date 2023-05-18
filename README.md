@@ -17,7 +17,7 @@
  <!--<img align="right" alt="Coding" width="400" src="https://github.com/sobit-nep/blob/main/coding-freak%20(1).gif">-->
  
 <div align="center">
-- 🌱 I’m currently learning ML Algorithms for data science. 
+- 🌱 I’m currently learning ML Algorithms. 
  </br>
 - 👯 I’m looking to collaborate on ML projects.
  </br>
