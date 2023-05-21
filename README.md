@@ -1,6 +1,5 @@
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi👋, I'm Shovit Nepal.</h1></summary>
@@ -21,7 +20,7 @@
  </br>
 - 👯 I’m looking to collaborate on ML projects.
  </br>
-- 📫 Electronics, Communication and Information Engineer
+- 📫 Electronics, Communication and Information Engineer.
 </br>
 - ⚡ Fun fact: In the future, learning how to code would be as common as basic literacy!
 </br>
