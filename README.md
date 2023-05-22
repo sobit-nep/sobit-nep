@@ -18,7 +18,7 @@
 <div align="center">
 - 🌱 I’m currently learning ML Algorithms. 
  </br>
-- 👯 I’m looking to collaborate on ML projects.
+- 👯 I’m looking to collaborate on Python/ML projects.
  </br>
 - 📫 Electronics, Communication and Information Engineer.
 </br>
