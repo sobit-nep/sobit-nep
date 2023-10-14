@@ -64,3 +64,4 @@
 
 [![@sobitnep's Holopin board](https://holopin.me/sobitnep)](https://holopin.io/@sobitnep)
 [![@50bit's Holopin board](https://holopin.io/api/user/board?user=50bit)](https://holopin.io/@50bit)
+[![An image of @50bit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/50bit)](https://holopin.io/@50bit)
