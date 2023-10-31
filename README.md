@@ -11,14 +11,14 @@
        alt="snake" /></a>
 </div>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00e0df&center=true&vCenter=true&width=900&height=110&lines=Data+Science+Enthusiast;Learning+ML+Algorithms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00e0df&center=true&vCenter=true&width=900&height=110&lines=Data+Science+Enthusiast;Electronics,+Communication+and+Information+Engineer)](https://git.io/typing-svg)
  
  <!--<img align="right" alt="Coding" width="400" src="https://github.com/sobit-nep/blob/main/coding-freak%20(1).gif">-->
  
 <div align="center">
-- 🌱 I’m currently learning ML Algorithms. 
+- 🌱 I’m currently learning ML. 
  </br>
-- 👯 I’m looking to collaborate on Python/ML projects.
+- 👯 I’m looking to collaborate on Python/ML/NLP projects.
  </br>
 - 📫 Electronics, Communication and Information Engineer.
 </br>
