@@ -5,7 +5,6 @@
     <summary><h1 style="display: inline-block">Hi👋, I'm Shovit.</h1></summary>
   </ul>
 </div>
-
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00e0df&center=true&vCenter=true&width=900&height=110&lines=Data+Science+Enthusiast;Electronics,+Communication+and+Information+Engineer)](https://git.io/typing-svg)
  
