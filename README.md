@@ -11,9 +11,9 @@
  <!--<img align="right" alt="Coding" width="400" src="https://github.com/sobit-nep/blob/main/coding-freak%20(1).gif">-->
  
 <div align="center">
-- 🌱 I’m currently learning ML. 
+- 🌱 I’m currently learning web scraping and ML basics. 
  </br>
-- 👯 I’m looking to collaborate on Python/ML/NLP projects.
+- 👯 I’m looking to collaborate on Python/Data/ML/NLP projects.
  </br>
 - 📫 Electronics, Communication and Information Engineer.
 </br>
