@@ -11,7 +11,7 @@
  <!--<img align="right" alt="Coding" width="400" src="https://github.com/sobit-nep/blob/main/coding-freak%20(1).gif">-->
  
 <div align="center">
-- 🌱 I’m currently learning web scraping and ML basics. 
+- 🌱 I’m currently exploring AI agent based autonomous system. 
  </br>
 - 👯 I’m looking to collaborate on Python/Data/ML/NLP projects.
  </br>
