@@ -11,11 +11,11 @@
  <!--<img align="right" alt="Coding" width="400" src="https://github.com/sobit-nep/blob/main/coding-freak%20(1).gif">-->
  
 <div align="center">
-- 🌱 I’m currently exploring AI agent based autonomous system. 
+- 🌱 I’m currently persuing my masters at University of Georgia. 
  </br>
 - 👯 I’m looking to collaborate on Python/Data/ML/NLP projects.
  </br>
-- 📫 Electronics, Communication and Information Engineer.
+- 📫 Graduate Research Assistant.
 </br>
 - ⚡ Fun fact: In the future, learning how to code would be as common as basic literacy!
 </br>
@@ -26,7 +26,7 @@
 <br/>
 <a href="https://www.linkedin.com/in/er-shovit-nepal-b559691b7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://medium.com/@nepalsobit1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="mailto:shovit.752419@thc.tu.edu.np?subject=Hello%20Fiftybit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:sn79059@uga.edu?subject=Hello%20Fiftybit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://nepalshovit.com.np/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 <br/> 
